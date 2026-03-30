@@ -22,25 +22,25 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](origin/CONTRIBUTING.
 
 The following starters supports the `@supabase/supabase-js` v2 library.
 
-* [Angular](https://github.com/supabase/supabase/tree/master/examples/user-management/angular-user-management) ⭐ 99,767 | 🐛 992 | 🌐 TypeScript | 📅 2026-03-29 - ![auth](https://img.shields.io/badge/-auth-informational)
-* [Expo](https://github.com/supabase/supabase/tree/master/examples/user-management/expo-user-management) ⭐ 99,767 | 🐛 992 | 🌐 TypeScript | 📅 2026-03-29 - ![auth](https://img.shields.io/badge/-auth-informational)
-* [Flutter](https://github.com/supabase/supabase/tree/master/examples/user-management/flutter-user-management) ⭐ 99,767 | 🐛 992 | 🌐 TypeScript | 📅 2026-03-29 - ![auth](https://img.shields.io/badge/-auth-informational)
-* [Next.js (TS)](https://github.com/supabase/supabase/tree/master/examples/user-management/nextjs-ts-user-management) ⭐ 99,767 | 🐛 992 | 🌐 TypeScript | 📅 2026-03-29 - ![auth](https://img.shields.io/badge/-auth-informational)
-* [Nuxt](https://github.com/supabase/supabase/tree/master/examples/user-management/nuxtjs-user-management) ⭐ 99,767 | 🐛 992 | 🌐 TypeScript | 📅 2026-03-29 - ![auth](https://img.shields.io/badge/-auth-informational)
-* [Nuxt3](https://github.com/supabase/supabase/tree/master/examples/user-management/nuxt3-user-management) ⭐ 99,767 | 🐛 992 | 🌐 TypeScript | 📅 2026-03-29 - ![auth](https://img.shields.io/badge/-auth-informational)
-* [React](https://github.com/supabase/supabase/tree/master/examples/user-management/react-user-management) ⭐ 99,767 | 🐛 992 | 🌐 TypeScript | 📅 2026-03-29 - ![auth](https://img.shields.io/badge/-auth-informational)
-* [Solid](https://github.com/supabase/supabase/tree/master/examples/user-management/solid-user-management) ⭐ 99,767 | 🐛 992 | 🌐 TypeScript | 📅 2026-03-29 - ![auth](https://img.shields.io/badge/-auth-informational)
-* [Svelte](https://github.com/supabase/supabase/tree/master/examples/user-management/svelte-user-management) ⭐ 99,767 | 🐛 992 | 🌐 TypeScript | 📅 2026-03-29 - ![auth](https://img.shields.io/badge/-auth-informational)
-* [Svelte Kit](https://github.com/supabase/supabase/tree/master/examples/user-management/sveltekit-user-management) ⭐ 99,767 | 🐛 992 | 🌐 TypeScript | 📅 2026-03-29 - ![auth](https://img.shields.io/badge/-auth-informational)
-* [Vue 3](https://github.com/supabase/supabase/tree/master/examples/user-management/vue3-user-management) ⭐ 99,767 | 🐛 992 | 🌐 TypeScript | 📅 2026-03-29 - ![auth](https://img.shields.io/badge/-auth-informational)
-* [Next.js, Slack Clone](https://github.com/supabase/supabase/tree/master/examples/slack-clone/nextjs-slack-clone) ⭐ 99,767 | 🐛 992 | 🌐 TypeScript | 📅 2026-03-29 - ![realtime](https://img.shields.io/badge/-realtime-orange)
-* [Svelte, Todo list](https://github.com/supabase/supabase/tree/master/examples/todo-list/sveltejs-todo-list) ⭐ 99,767 | 🐛 992 | 🌐 TypeScript | 📅 2026-03-29 - ![database](https://img.shields.io/badge/-database-9cf)
+* [Angular](https://github.com/supabase/supabase/tree/master/examples/user-management/angular-user-management) ⭐ 99,816 | 🐛 999 | 🌐 TypeScript | 📅 2026-03-30 - ![auth](https://img.shields.io/badge/-auth-informational)
+* [Expo](https://github.com/supabase/supabase/tree/master/examples/user-management/expo-user-management) ⭐ 99,816 | 🐛 999 | 🌐 TypeScript | 📅 2026-03-30 - ![auth](https://img.shields.io/badge/-auth-informational)
+* [Flutter](https://github.com/supabase/supabase/tree/master/examples/user-management/flutter-user-management) ⭐ 99,816 | 🐛 999 | 🌐 TypeScript | 📅 2026-03-30 - ![auth](https://img.shields.io/badge/-auth-informational)
+* [Next.js (TS)](https://github.com/supabase/supabase/tree/master/examples/user-management/nextjs-ts-user-management) ⭐ 99,816 | 🐛 999 | 🌐 TypeScript | 📅 2026-03-30 - ![auth](https://img.shields.io/badge/-auth-informational)
+* [Nuxt](https://github.com/supabase/supabase/tree/master/examples/user-management/nuxtjs-user-management) ⭐ 99,816 | 🐛 999 | 🌐 TypeScript | 📅 2026-03-30 - ![auth](https://img.shields.io/badge/-auth-informational)
+* [Nuxt3](https://github.com/supabase/supabase/tree/master/examples/user-management/nuxt3-user-management) ⭐ 99,816 | 🐛 999 | 🌐 TypeScript | 📅 2026-03-30 - ![auth](https://img.shields.io/badge/-auth-informational)
+* [React](https://github.com/supabase/supabase/tree/master/examples/user-management/react-user-management) ⭐ 99,816 | 🐛 999 | 🌐 TypeScript | 📅 2026-03-30 - ![auth](https://img.shields.io/badge/-auth-informational)
+* [Solid](https://github.com/supabase/supabase/tree/master/examples/user-management/solid-user-management) ⭐ 99,816 | 🐛 999 | 🌐 TypeScript | 📅 2026-03-30 - ![auth](https://img.shields.io/badge/-auth-informational)
+* [Svelte](https://github.com/supabase/supabase/tree/master/examples/user-management/svelte-user-management) ⭐ 99,816 | 🐛 999 | 🌐 TypeScript | 📅 2026-03-30 - ![auth](https://img.shields.io/badge/-auth-informational)
+* [Svelte Kit](https://github.com/supabase/supabase/tree/master/examples/user-management/sveltekit-user-management) ⭐ 99,816 | 🐛 999 | 🌐 TypeScript | 📅 2026-03-30 - ![auth](https://img.shields.io/badge/-auth-informational)
+* [Vue 3](https://github.com/supabase/supabase/tree/master/examples/user-management/vue3-user-management) ⭐ 99,816 | 🐛 999 | 🌐 TypeScript | 📅 2026-03-30 - ![auth](https://img.shields.io/badge/-auth-informational)
+* [Next.js, Slack Clone](https://github.com/supabase/supabase/tree/master/examples/slack-clone/nextjs-slack-clone) ⭐ 99,816 | 🐛 999 | 🌐 TypeScript | 📅 2026-03-30 - ![realtime](https://img.shields.io/badge/-realtime-orange)
+* [Svelte, Todo list](https://github.com/supabase/supabase/tree/master/examples/todo-list/sveltejs-todo-list) ⭐ 99,816 | 🐛 999 | 🌐 TypeScript | 📅 2026-03-30 - ![database](https://img.shields.io/badge/-database-9cf)
 * [React Native, Stripe Payments](https://github.com/supabase-community/expo-stripe-payments-with-supabase-functions) ⭐ 126 | 🐛 2 | 🌐 TypeScript | 📅 2022-12-07 - ![edge functions](https://img.shields.io/badge/-edge%20functions-darkgreen)
 * [Flutter, Stripe Payments](https://github.com/supabase-community/flutter-stripe-payments-with-supabase-functions) ⭐ 95 | 🐛 1 | 🌐 Dart | 📅 2024-04-27 - ![edge functions](https://img.shields.io/badge/-edge%20functions-darkgreen)
 
 ## Community Starters
 
-* [Extro](https://github.com/turbostarter/extro) ⭐ 374 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-16 - Open source browser extension starter kit.
+* [Extro](https://github.com/turbostarter/extro) ⭐ 373 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-16 - Open source browser extension starter kit.
 * [SupaSasS Lite](https://github.com/Razikus/supabase-nextjs-template) ⭐ 300 | 🐛 1 | 🌐 TypeScript | 📅 2025-12-06 - Open source Next.js SasS template (with 2FA, and example app)
 * [Vuepabase](https://github.com/JMaylor/vuepabase) ⭐ 60 | 🐛 0 | 🌐 Vue | 📅 2022-10-12 - Vue3 Supabase starter, with Pinia, Vue-router 4, Tailwind CSS, Vitest, Cypress and more.
 * [SupaSocial](https://github.com/koji0701/supabase-react-social-media-starter/tree/main) ⭐ 24 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-26 - React social media starter with auth, friend requests, profile pics, and example app (profile, friends, signin, leaderboard, and more pages).
