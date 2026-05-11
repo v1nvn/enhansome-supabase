@@ -10,10 +10,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-10T00:52:02Z",
+            "last_commit": "2026-05-11T04:58:03Z",
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 102108
+            "stars": 102151
           }
         },
         {
@@ -23,10 +23,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-10T00:52:02Z",
+            "last_commit": "2026-05-11T04:58:03Z",
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 102108
+            "stars": 102151
           }
         },
         {
@@ -36,10 +36,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-10T00:52:02Z",
+            "last_commit": "2026-05-11T04:58:03Z",
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 102108
+            "stars": 102151
           }
         },
         {
@@ -49,10 +49,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-10T00:52:02Z",
+            "last_commit": "2026-05-11T04:58:03Z",
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 102108
+            "stars": 102151
           }
         },
         {
@@ -62,10 +62,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-10T00:52:02Z",
+            "last_commit": "2026-05-11T04:58:03Z",
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 102108
+            "stars": 102151
           }
         },
         {
@@ -75,10 +75,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-10T00:52:02Z",
+            "last_commit": "2026-05-11T04:58:03Z",
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 102108
+            "stars": 102151
           }
         },
         {
@@ -88,10 +88,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-10T00:52:02Z",
+            "last_commit": "2026-05-11T04:58:03Z",
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 102108
+            "stars": 102151
           }
         },
         {
@@ -101,10 +101,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-10T00:52:02Z",
+            "last_commit": "2026-05-11T04:58:03Z",
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 102108
+            "stars": 102151
           }
         },
         {
@@ -114,10 +114,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-10T00:52:02Z",
+            "last_commit": "2026-05-11T04:58:03Z",
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 102108
+            "stars": 102151
           }
         },
         {
@@ -127,10 +127,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-10T00:52:02Z",
+            "last_commit": "2026-05-11T04:58:03Z",
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 102108
+            "stars": 102151
           }
         },
         {
@@ -140,10 +140,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-10T00:52:02Z",
+            "last_commit": "2026-05-11T04:58:03Z",
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 102108
+            "stars": 102151
           }
         },
         {
@@ -153,10 +153,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-10T00:52:02Z",
+            "last_commit": "2026-05-11T04:58:03Z",
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 102108
+            "stars": 102151
           }
         },
         {
@@ -166,10 +166,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-10T00:52:02Z",
+            "last_commit": "2026-05-11T04:58:03Z",
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 102108
+            "stars": 102151
           }
         },
         {
@@ -247,7 +247,7 @@
             "last_commit": "2025-12-06T01:04:19Z",
             "owner": "Razikus",
             "repo": "supabase-nextjs-template",
-            "stars": 312
+            "stars": 311
           }
         },
         {
@@ -320,7 +320,7 @@
             "last_commit": "2026-05-08T03:58:31Z",
             "owner": "dreamlit-ai",
             "repo": "lovable-cloud-to-supabase-exporter",
-            "stars": 13
+            "stars": 14
           }
         }
       ],
@@ -408,13 +408,39 @@
           "children": [],
           "description": "Open-source serverless task queue worker that runs on Supabase Edge Functions (Background Tasks) and Supabase Queues. It simplifies consuming the queues and adds useful features like concurrency control, retries, and observability.",
           "title": "Edge Worker"
+        },
+        {
+          "children": [],
+          "description": "Send phone OTP verification via DataFlows SMS API. Australian alternative to Twilio for Supabase Auth.",
+          "title": "Supabase DataFlows SMS Hook",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-26T13:09:04Z",
+            "owner": "dataflows-au",
+            "repo": "supabase-sms-hook",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive maps, OSINT feeds, and AI-powered briefs.",
+          "title": "Pharos AI",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-07T15:41:17Z",
+            "owner": "Juliusolsson05",
+            "repo": "pharos-ai",
+            "stars": 130
+          }
         }
       ],
       "title": "Community Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-10T05:25:28.859Z",
+    "last_updated": "2026-05-11T05:47:03.195Z",
     "original_repository": "lyqht/awesome-supabase",
     "source_repository": "v1nvn/enhansome-supabase",
     "source_repository_description": null,
