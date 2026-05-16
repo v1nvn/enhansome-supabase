@@ -10,10 +10,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-15T05:29:53Z",
+            "last_commit": "2026-05-15T23:15:54Z",
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 102348
+            "stars": 102380
           }
         },
         {
@@ -23,10 +23,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-15T05:29:53Z",
+            "last_commit": "2026-05-15T23:15:54Z",
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 102348
+            "stars": 102380
           }
         },
         {
@@ -36,10 +36,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-15T05:29:53Z",
+            "last_commit": "2026-05-15T23:15:54Z",
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 102348
+            "stars": 102380
           }
         },
         {
@@ -49,10 +49,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-15T05:29:53Z",
+            "last_commit": "2026-05-15T23:15:54Z",
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 102348
+            "stars": 102380
           }
         },
         {
@@ -62,10 +62,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-15T05:29:53Z",
+            "last_commit": "2026-05-15T23:15:54Z",
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 102348
+            "stars": 102380
           }
         },
         {
@@ -75,10 +75,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-15T05:29:53Z",
+            "last_commit": "2026-05-15T23:15:54Z",
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 102348
+            "stars": 102380
           }
         },
         {
@@ -88,10 +88,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-15T05:29:53Z",
+            "last_commit": "2026-05-15T23:15:54Z",
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 102348
+            "stars": 102380
           }
         },
         {
@@ -101,10 +101,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-15T05:29:53Z",
+            "last_commit": "2026-05-15T23:15:54Z",
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 102348
+            "stars": 102380
           }
         },
         {
@@ -114,10 +114,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-15T05:29:53Z",
+            "last_commit": "2026-05-15T23:15:54Z",
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 102348
+            "stars": 102380
           }
         },
         {
@@ -127,10 +127,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-15T05:29:53Z",
+            "last_commit": "2026-05-15T23:15:54Z",
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 102348
+            "stars": 102380
           }
         },
         {
@@ -140,10 +140,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-15T05:29:53Z",
+            "last_commit": "2026-05-15T23:15:54Z",
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 102348
+            "stars": 102380
           }
         },
         {
@@ -153,10 +153,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-15T05:29:53Z",
+            "last_commit": "2026-05-15T23:15:54Z",
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 102348
+            "stars": 102380
           }
         },
         {
@@ -166,10 +166,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-15T05:29:53Z",
+            "last_commit": "2026-05-15T23:15:54Z",
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 102348
+            "stars": 102380
           }
         },
         {
@@ -317,7 +317,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-13T12:47:14Z",
+            "last_commit": "2026-05-15T12:45:51Z",
             "owner": "dreamlit-ai",
             "repo": "lovable-cloud-to-supabase-exporter",
             "stars": 14
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-15T05:43:54.408Z",
+    "last_updated": "2026-05-16T05:16:31.676Z",
     "original_repository": "lyqht/awesome-supabase",
     "source_repository": "v1nvn/enhansome-supabase",
     "source_repository_description": null,
